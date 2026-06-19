@@ -1,0 +1,7 @@
+ComputerName,TPM,SecureBoot,BitLocker,Defender,Firewall,OSVersion,LocalAdminCount
+ZT-LAPTOP-001,True,True,True,True,True,Windows 11,1
+ZT-LAPTOP-002,True,False,False,True,True,Windows 10,4
+ZT-DESKTOP-003,False,False,False,False,False,Windows 10,7
+ZT-SERVER-004,True,True,True,True,True,Windows Server 2022,2
+ZT-LEGACY-005,False,False,False,True,False,Windows 7,6
+ZT-LAPTOP-006,True,True,False,True,True,Windows 11,2
